@@ -1,5 +1,5 @@
 # sql-scan
-# sql注入漏洞检测系统小框架
+# SQL注入漏洞检测系统框架
 
 scanui.py 利用tkinter编写的主程序框架，图形界面。
 
