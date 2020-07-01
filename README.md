@@ -9,3 +9,5 @@ scan.py 命令行形式的主程序
 
 运行环境： python 2.7  
 运行方式： python scanui.py
+
+注：lib和script文件夹中的init空文件请勿删除，在pycharm中运行时，没有init文件会报错。
